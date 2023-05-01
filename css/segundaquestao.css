@@ -1,0 +1,37 @@
+#img-1{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    border-style: dashed;
+  }
+  #img-2{
+    position: absolute;
+    top: 200px;
+    right: 170px;
+    border-style: double;
+  }
+  #img-3{
+    position: absolute;
+    top: 270px;
+    right: 45px;
+    border-style: double;
+  }
+  #img-4{
+    position: absolute;
+    top: 600px;
+    right: 50px;
+    border-style: groove;
+}
+  #img-5{
+    position: absolute;
+    top: 660px;
+    right: 50px;
+    border-style: inset;
+  }
+  #img-6{
+    position: absolute;
+    top: 900px;
+    left: 0px;
+    border-style:outset;
+  }
+ 

@@ -1,0 +1,13 @@
+#parágrafo{
+  background-color: green;
+  color: white;
+  font-family: Arial;
+  height: 100%;
+  width: 150%;
+  border-right: 0px;
+  border-left: 2px dotted yellow;
+  border-top: 2px dashed blue;
+  border-bottom: 2px double red;
+  padding-top: 10px;
+  padding-left: 10px;
+}

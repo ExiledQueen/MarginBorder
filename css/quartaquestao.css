@@ -1,0 +1,47 @@
+#tudo{
+    border-style: 3px solid rgb(18, 18, 19) ;
+    background-color: rgb(231, 140, 204);
+    margin: 5px solid black;
+}
+
+#menu{
+   padding: 30px;
+   display: flex;
+   justify-content: left;
+
+}
+
+#not{
+    display: inline-block;
+    border-style: 3px solid blue ;
+    color: red;
+    border-top: 5px solid red;
+    padding: 10px;
+    border-right: 20px;
+
+}
+
+#esp{
+    display: inline-block;
+    border-style: 3px solid blue ;
+    color: rgb(0, 180, 30);
+    border-top: 5px solid rgb(0, 180, 30);
+    padding: 10px;
+}
+
+#entre{
+    display: inline-block;
+    border-style: 3px solid blue ;
+    color: rgb(238, 255, 0);
+    border-top: 5px solid rgb(238, 255, 0);
+    padding: 10px;
+}
+
+#vid{
+    display: inline-block;
+    border-style: 3px solid blue ;
+    color: rgb(17, 0, 255);
+    border-top: 5px solid rgb(17, 0, 255);
+    padding: 10px;
+  
+}

@@ -1,0 +1,83 @@
+#hist{
+    border: 1px solid #000;
+    border-right: 5px solid rgb(255, 1, 1) ;
+    width: 150px;
+    padding: 5px;
+}
+#LetraHist{
+    font-size: 16px;
+    color: red;
+    padding: 10px;
+}
+
+#local{
+    border: 1px solid #000; 
+    border-right: 5px solid rgb(0, 255, 255);
+    width: 150px;
+    padding: 5px;
+}
+#LetraLocal{
+    font-size: 16px;
+    color: #0ff ;
+    padding: 10px;
+}
+
+#port{
+    border: 1px solid #000;
+    border-right: 5px solid rgb(128, 255, 9, 0.452) ;
+    width: 150px;
+    padding: 5px;
+}
+#LetraPort{
+    font-size: 16px;
+    color: rgb(128, 255, 9, 0.452) ;
+    padding: 10px;
+}
+
+#preço{
+    border: 1px solid #000;
+    border-right: 5px solid rgb(255, 230, 0) ;
+    width: 150px;
+    padding: 5px;
+}
+#LetraPreço{
+    font-size: 16px;
+    color: rgb(255, 230, 0) ;
+    padding: 10px; 
+}
+
+#prazo{
+    border: 1px solid #000;
+    border-right: 5px solid rgb(132, 0, 194) ;
+    width: 150px;
+    padding: 5px;
+}
+#LetraPrazo{
+    font-size: 16px;
+    color: rgb(132, 0, 194) ;
+    padding: 10px; 
+}
+
+#cliente{
+    border: 1px solid #000;
+    border-right: 5px solid rgb(243, 14, 155) ;
+    width: 150px;
+    padding: 5px;
+}
+#LetraCliente{
+    font-size: 16px;
+    color: rgb(243, 14, 155)  ;
+    padding: 10px;  
+}
+
+#contato{
+    border: 1px solid #000;
+    border-right: 5px solid rgb(248, 99, 0) ;
+    width: 150px;
+    padding: 5px;
+}
+#LetraContato{
+    font-size: 16px;
+    color: rgb(248, 99, 0)  ;
+    padding: 10px;   
+}
